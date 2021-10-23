@@ -1,10 +1,11 @@
 import React from 'react'
+import Base from '../../components/site/common/Base'
 
 const Home = () => {
     return (
-        <div>
+        <Base>
             <h1>Hello World!</h1>
-        </div>
+        </Base>
     )
 }
 
